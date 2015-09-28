@@ -1,0 +1,3 @@
+Public Class DetalleFactura{
+System.out.print("Hola Mundo");
+}
